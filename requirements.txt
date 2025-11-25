@@ -1,0 +1,13 @@
+torch==2.1.0+cpu
+torchaudio==2.1.0+cpu
+transformers==4.37.2
+soundfile
+scipy
+numpy
+pydub
+librosa
+tqdm
+jieba
+sentencepiece
+huggingface_hub
+protobuf
